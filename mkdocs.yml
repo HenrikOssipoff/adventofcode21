@@ -1,3 +1,7 @@
 site_name: Advent of Code 2021
 theme:
   name: material
+  palette:
+    primary: red
+repo_url: https://github.com/HenrikOssipoff/adventofcode21
+repo_name: adventofcode21
